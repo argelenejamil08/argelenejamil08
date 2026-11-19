@@ -1,19 +1,13 @@
 
 <div align="center">
 
-# ARGELENE JAMIL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1D4ED8&height=180&section=header&text=ARGELENE%20JAMIL&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=ASPIRING%20WEB%20DEVELOPER&descSize=17&descAlignY=65&descColor=BFDBFE" width="100%" />
 
-### ASPIRING WEB DEVELOPER
+### 3rd Year BSIT Student | Trinidad Municipal College
 
-**3rd Year BSIT Student | Trinidad Municipal College**
+**Building digital experiences through code and creativity.**
 
-*Turning ideas into functional digital experiences.*
-
-<br/>
-
-<a href="https://github.com/argelenejamil08">
-  <img src="https://img.shields.io/badge/GitHub-argelenejamil08-181717?style=for-the-badge&logo=github" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-argelenejamil08-181717?style=for-the-badge&logo=github)](https://github.com/argelenejamil08)
 
 </div>
 
@@ -21,80 +15,112 @@
 
 ## ABOUT ME
 
-Hello! I'm **Argelene Jamil**, a 3rd-year Information Technology student passionate about web development and software engineering.
+I'm **Argelene Jamil**, an Information Technology student passionate about web development and software engineering.
 
-I enjoy developing applications, exploring modern technologies, and solving problems through code. I continuously improve my skills through academic projects and hands-on development.
+I enjoy turning ideas into functional applications, exploring modern technologies, and solving real-world problems through programming.
 
-- 🎓 Currently studying BS Information Technology
+- 🎓 3rd Year BSIT Student at Trinidad Municipal College
 - 💻 Interested in Frontend and Backend Development
-- 🌱 Continuously learning new technologies
-- 🎯 Working towards becoming a Professional Web Developer
+- 🌱 Continuously improving my development skills
+- 🚀 Building practical applications through academic projects
+- 🎯 Aspiring to become a professional Web Developer
 
 ---
 
-## TECHNICAL SKILLS
+## TECHNOLOGY STACK
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
 </p>
 
-### Mobile Development & Database
+### Mobile & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,mysql" />
+<img src="https://skillicons.dev/icons?i=flutter,mysql" />
 </p>
 
-### Tools & Platforms
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## SELECTED PROJECTS
+## FEATURED PROJECTS
 
-### AgriRent – Equipment Rental Management System
+<table>
+<tr>
+<td width="50%">
 
-**Technologies:** React, Node.js, Express.js, MySQL, Flutter
+### AgriRent
 
-An academic software project focused on equipment rental management, including equipment listings, reservations, and administrative functionality.
+**Equipment Rental Management System**
 
-### TRACE_IT – Expense and Receipt Management System
+An academic project designed to manage equipment listings, rental reservations, and administrative operations.
 
-**Technologies:** C#, ASP.NET MVC, MySQL
+**Technologies:**
+- React.js
+- Node.js
+- Express.js
+- MySQL
+- Flutter
 
-An academic project focused on expense tracking, receipt management, and administrative operations.
+</td>
+<td width="50%">
 
-*Source code and project documentation will be added as the projects are prepared for publication.*
+### TRACE_IT
+
+**Expense & Receipt Management System**
+
+An academic project focused on managing expenses, recording receipts, and organizing financial records.
+
+**Technologies:**
+- C#
+- ASP.NET MVC
+- MySQL
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<i>Academic projects — source code and documentation will be published when ready.</i>
+</p>
 
 ---
 
-## CURRENT FOCUS
+## CURRENT LEARNING GOALS
 
-- Improving frontend development skills
-- Learning backend development
-- Building responsive web applications
-- Strengthening database management skills
-- Developing practical software projects
+| Area | Focus |
+|---|---|
+| Frontend | React.js and responsive UI |
+| Backend | Node.js and REST APIs |
+| Database | MySQL and database design |
+| Mobile | Flutter application development |
+| Software Development | Clean code and system architecture |
 
 ---
 
-## GITHUB STATISTICS
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=argelenejamil08&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=argelenejamil08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argelenejamil08&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argelenejamil08&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=argelenejamil08&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -105,7 +131,7 @@ An academic project focused on expense tracking, receipt management, and adminis
 <div align="center">
 
 <a href="https://github.com/argelenejamil08">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -116,6 +142,8 @@ An academic project focused on expense tracking, receipt management, and adminis
 
 ### BUILD. CREATE. INNOVATE.
 
-*Always learning. Always building.*
+*Learning today. Building tomorrow.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:0F172A&height=90&section=footer" width="100%" />
 
 </div>
