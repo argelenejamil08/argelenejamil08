@@ -40,7 +40,7 @@ To build useful applications, solve real-world problems, and grow as a software 
 ### 💻 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,mysql,cs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,mysql,cs,git,github,vscode" />
 </p>
 
 ### 📫 Connect With Me
