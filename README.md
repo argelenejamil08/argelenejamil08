@@ -1,149 +1,111 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1D4ED8&height=180&section=header&text=ARGELENE%20JAMIL&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=ASPIRING%20WEB%20DEVELOPER&descSize=17&descAlignY=65&descColor=BFDBFE" width="100%" />
+# ARGELENE JAMIL
 
-### 3rd Year BSIT Student | Trinidad Municipal College
+### ASPIRING WEB DEVELOPER
 
-**Building digital experiences through code and creativity.**
+**Information Technology Student · Trinidad Municipal College**
 
-[![GitHub](https://img.shields.io/badge/GitHub-argelenejamil08-181717?style=for-the-badge&logo=github)](https://github.com/argelenejamil08)
+Building practical digital solutions through technology and code.
+
+[GitHub Profile](https://github.com/argelenejamil08)
 
 </div>
 
 ---
 
-## ABOUT ME
+## PROFILE
 
-I'm **Argelene Jamil**, an Information Technology student passionate about web development and software engineering.
+I am a third-year Information Technology student passionate about web development and software engineering.
 
-I enjoy turning ideas into functional applications, exploring modern technologies, and solving real-world problems through programming.
+I enjoy building applications, solving technical problems, and exploring technologies that help create practical digital solutions.
 
-- 🎓 3rd Year BSIT Student at Trinidad Municipal College
-- 💻 Interested in Frontend and Backend Development
-- 🌱 Continuously improving my development skills
-- 🚀 Building practical applications through academic projects
-- 🎯 Aspiring to become a professional Web Developer
+My experience comes from academic software development projects, where I have worked with frontend technologies, backend development, databases, and application design.
 
----
-
-## TECHNOLOGY STACK
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
-</p>
-
-### Mobile & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,mysql" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Education:** Bachelor of Science in Information Technology  
+**Institution:** Trinidad Municipal College  
+**Career Interest:** Web Development
 
 ---
 
-## FEATURED PROJECTS
+## TECHNICAL EXPERTISE
 
-<table>
-<tr>
-<td width="50%">
+| Category | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React.js |
+| Backend | Node.js, Express.js, C# |
+| Mobile Development | Flutter |
+| Database | MySQL |
+| Tools | Git, GitHub, Visual Studio Code |
+| Framework | ASP.NET MVC |
 
-### AgriRent
+---
 
+## SELECTED PROJECTS
+
+### 01. AgriRent
 **Equipment Rental Management System**
 
-An academic project designed to manage equipment listings, rental reservations, and administrative operations.
+An academic software project designed to manage agricultural equipment rentals, reservations, equipment information, and administrative operations.
 
-**Technologies:**
-- React.js
-- Node.js
-- Express.js
-- MySQL
-- Flutter
+**Technology Stack**
 
-</td>
-<td width="50%">
-
-### TRACE_IT
-
-**Expense & Receipt Management System**
-
-An academic project focused on managing expenses, recording receipts, and organizing financial records.
-
-**Technologies:**
-- C#
-- ASP.NET MVC
-- MySQL
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<i>Academic projects — source code and documentation will be published when ready.</i>
-</p>
+React.js · Node.js · Express.js · MySQL · Flutter
 
 ---
 
-## CURRENT LEARNING GOALS
+### 02. TRACE_IT
+**Expense and Receipt Management System**
 
-| Area | Focus |
-|---|---|
-| Frontend | React.js and responsive UI |
-| Backend | Node.js and REST APIs |
-| Database | MySQL and database design |
-| Mobile | Flutter application development |
-| Software Development | Clean code and system architecture |
+An academic software project focused on expense recording, receipt management, and organizing financial records through an administrative system.
+
+**Technology Stack**
+
+C# · ASP.NET MVC · MySQL
 
 ---
 
-## GITHUB ANALYTICS
+## DEVELOPMENT FOCUS
+
+**Frontend Engineering**  
+Creating responsive, accessible, and user-friendly interfaces.
+
+**Backend Development**  
+Building application logic, APIs, and server-side functionality.
+
+**Database Management**  
+Designing and managing structured databases using MySQL.
+
+**Software Development**  
+Improving programming practices and building practical applications.
+
+---
+
+## GITHUB ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=argelenejamil08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=argelenejamil08&show_icons=true&hide_border=true&theme=default" width="49%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argelenejamil08&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=argelenejamil08&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argelenejamil08&layout=compact&hide_border=true&theme=default" width="49%" />
 
 </div>
 
 ---
 
-## CONNECT WITH ME
+## CAREER OBJECTIVE
 
-<div align="center">
-
-<a href="https://github.com/argelenejamil08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+To become a professional Web Developer, continuously strengthen my technical capabilities, and contribute to building reliable and meaningful software applications.
 
 ---
 
 <div align="center">
 
-### BUILD. CREATE. INNOVATE.
+**ARGELENE JAMIL**
 
-*Learning today. Building tomorrow.*
+Web Development · Software Engineering · Continuous Learning
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:0F172A&height=90&section=footer" width="100%" />
+[GitHub](https://github.com/argelenejamil08)
 
 </div>
