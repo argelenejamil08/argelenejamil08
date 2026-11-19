@@ -1,49 +1,121 @@
 
-<h1 align="center">Hi, I'm Argelene Jamil 👋</h1>
+<div align="center">
 
-<h3 align="center">3rd Year BSIT Student | Aspiring Web Developer</h3>
+# ARGELENE JAMIL
 
----
+### ASPIRING WEB DEVELOPER
 
-### 👨‍💻 About Me
+**3rd Year BSIT Student | Trinidad Municipal College**
 
-- 🎓 3rd Year Information Technology Student at Trinidad Municipal College.
-- 💻 Passionate about Web Development and Software Engineering.
-- 🌱 Continuously learning and improving my programming skills.
-- 🎯 Aspiring to become a Professional Web Developer.
-- 🤝 Open to collaboration and learning opportunities.
+*Turning ideas into functional digital experiences.*
 
-### 🛠️ Technologies & Tools
+<br/>
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js, C#
-- **Mobile:** Flutter
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
+<a href="https://github.com/argelenejamil08">
+  <img src="https://img.shields.io/badge/GitHub-argelenejamil08-181717?style=for-the-badge&logo=github" />
+</a>
 
-### 📌 Featured Projects
-
-Currently preparing my academic projects for GitHub.
-
-### 🎯 My Goal
-
-To build useful applications, solve real-world problems, and grow as a software developer.
+</div>
 
 ---
 
-<h3 align="center">Thanks for visiting my profile! 😊</h3>
+## ABOUT ME
 
+Hello! I'm **Argelene Jamil**, a 3rd-year Information Technology student passionate about web development and software engineering.
 
+I enjoy developing applications, exploring modern technologies, and solving problems through code. I continuously improve my skills through academic projects and hands-on development.
+
+- 🎓 Currently studying BS Information Technology
+- 💻 Interested in Frontend and Backend Development
+- 🌱 Continuously learning new technologies
+- 🎯 Working towards becoming a Professional Web Developer
 
 ---
 
-### 💻 My Tech Stack
+## TECHNICAL SKILLS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,mysql,cs,git,github,vscode" />
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 📫 Connect With Me
+### Backend Development
 
-- GitHub: https://github.com/argelenejamil08
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
+</p>
 
+### Mobile Development & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## SELECTED PROJECTS
+
+### AgriRent – Equipment Rental Management System
+
+**Technologies:** React, Node.js, Express.js, MySQL, Flutter
+
+An academic software project focused on equipment rental management, including equipment listings, reservations, and administrative functionality.
+
+### TRACE_IT – Expense and Receipt Management System
+
+**Technologies:** C#, ASP.NET MVC, MySQL
+
+An academic project focused on expense tracking, receipt management, and administrative operations.
+
+*Source code and project documentation will be added as the projects are prepared for publication.*
+
+---
+
+## CURRENT FOCUS
+
+- Improving frontend development skills
+- Learning backend development
+- Building responsive web applications
+- Strengthening database management skills
+- Developing practical software projects
+
+---
+
+## GITHUB STATISTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=argelenejamil08&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argelenejamil08&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/argelenejamil08">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD. CREATE. INNOVATE.
+
+*Always learning. Always building.*
+
+</div>
