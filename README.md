@@ -32,3 +32,18 @@ To build useful applications, solve real-world problems, and grow as a software 
 ---
 
 <h3 align="center">Thanks for visiting my profile! 😊</h3>
+
+
+
+---
+
+### 💻 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,mysql,cs,git,github,vscode" />
+</p>
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/argelenejamil08
+
